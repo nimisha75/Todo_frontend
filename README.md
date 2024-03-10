@@ -20,7 +20,7 @@ Node(.js) — the premier JavaScript web server.
 Todoapp in a project should aim to provide a user-friendly and efficient way for individuals or teams to manage their tasks and stay organized, ultimately helping them to be more productive and effective in achieving their goals.
 
 #Backend link
-github.com/lamfasna/TODO
+https://github.com/lamfasna/TODO
 
 
 
